@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">Skard. Случайный топик в тултипе</lang>
+        <lang name="russian">Skard. Случайный топик в тултипе</lang>
+    </name>
+    <author>
+        <lang name="default">skif</lang>
+        <lang name="russian">skif</lang>
+    </author>
+    <homepage>http://livestreet.ru/profile/skif/</homepage>
+    <version>1.0.0</version>
+    <requires>
+        <livestreet>1.0.0</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">Показывает тултип с текстом случайного топика.</lang>
+        <lang name="russian">Показывает тултип с текстом случайного топика.</lang>
+    </description>
+</plugin>
